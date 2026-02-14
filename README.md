@@ -1,4 +1,4 @@
-# Offline AI Writing Assistant
+#Ollama online writing assistant
 
 A lightweight, system-wide writing assistant that corrects grammar, typos, casing, and punctuation using a local LLM through Ollama. It runs fully offline and is suitable for low-resource machines.
 
