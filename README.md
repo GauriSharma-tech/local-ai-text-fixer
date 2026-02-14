@@ -113,3 +113,7 @@ Output:
 ## License
 
 Add your preferred license in this section (for example, MIT).
+
+Acknowledgements
+
+This project is inspired by [patrickloeber/ai-typing-assistant](https://github.com/patrickloeber/ai-typing-assistant).
