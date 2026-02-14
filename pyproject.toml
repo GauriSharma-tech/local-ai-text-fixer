@@ -1,0 +1,24 @@
+
+---
+
+## **📄 pyproject.toml**  
+
+```toml
+[project]
+name = "offline-ai-writing-assistant"
+version = "0.1.0"
+description = "System-wide offline AI writing assistant using Phi-3 LLM."
+authors = [
+    { name="Gauri Sharma", email="your_email@example.com" }
+]
+readme = "README.md"
+requires-python = ">=3.10"
+
+[project.dependencies]
+httpx = "==1.1.3"
+pynput = "==1.7.7"
+pyperclip = "==1.8.2"
+
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
